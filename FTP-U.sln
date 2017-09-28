@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FTP-U", "FTP-U\FTP-U.vcxproj", "{FA24A8FF-E1FA-47E2-8CAF-E5A7A7CFB089}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA24A8FF-E1FA-47E2-8CAF-E5A7A7CFB089}.Debug|x64.ActiveCfg = Debug|x64
+		{FA24A8FF-E1FA-47E2-8CAF-E5A7A7CFB089}.Debug|x64.Build.0 = Debug|x64
+		{FA24A8FF-E1FA-47E2-8CAF-E5A7A7CFB089}.Debug|x86.ActiveCfg = Debug|Win32
+		{FA24A8FF-E1FA-47E2-8CAF-E5A7A7CFB089}.Debug|x86.Build.0 = Debug|Win32
+		{FA24A8FF-E1FA-47E2-8CAF-E5A7A7CFB089}.Release|x64.ActiveCfg = Release|x64
+		{FA24A8FF-E1FA-47E2-8CAF-E5A7A7CFB089}.Release|x64.Build.0 = Release|x64
+		{FA24A8FF-E1FA-47E2-8CAF-E5A7A7CFB089}.Release|x86.ActiveCfg = Release|Win32
+		{FA24A8FF-E1FA-47E2-8CAF-E5A7A7CFB089}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CBCE0FE-7231-4C2E-956C-7A231D17D495}
+	EndGlobalSection
+EndGlobal

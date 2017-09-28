@@ -1,0 +1,8 @@
+do private upload as well
+create private folder in /private 
+name scheme - users initials + random text/numbers
+print out link for user
+
+put in more checks
+
+make keep alive loop to run during upload incase of large file
